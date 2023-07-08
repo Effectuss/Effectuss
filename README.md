@@ -1,6 +1,4 @@
-## Hey!
-
-<img align="right" alt="office" src="https://raw.githubusercontent.com/cr00z/cr00z/main/images/office.jpg" width="400" height="250" />
+## About me
 
 My name is Savelii and I'm a Developer living in Novosibirsk
 
@@ -27,12 +25,8 @@ My name is Savelii and I'm a Developer living in Novosibirsk
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### 💡 **Leetcode:**
-
-<details> <summary>Stats</summary>
+<h3 align="center">💡 Leetcode</h3>
 
 ![Leetcode](https://leetcard.jacoblin.cool/effectus?theme=dark&font=ABeeZee&ext=heatmap)
 
-</details>
 
-[![Leetcode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/effectus/)
