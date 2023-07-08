@@ -7,9 +7,9 @@ My name is Savelii and I'm a Developer living in Novosibirsk
 - 💬 Ask me about Programming, DevOps, Analytics
 - 📫 How to reach me: [Telegram](https://t.me/savamlb), [Email](mailto://panovsavelii@gmail.com)
 
-<h3 align="right">:hammer_and_wrench: Languages and Tools</h3>
+<h3 align="left">:hammer_and_wrench: Languages and Tools</h3>
 
-<div align="right">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" **alt="ubuntu" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" **alt="qt" width="40" height="40"/>
@@ -25,7 +25,7 @@ My name is Savelii and I'm a Developer living in Novosibirsk
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<h3 align="right">💡 Leetcode</h3>
+<h3 align="left">💡 Leetcode</h3>
 
 ![Leetcode](https://leetcard.jacoblin.cool/effectus?theme=dark&font=ABeeZee&ext=heatmap)
 
