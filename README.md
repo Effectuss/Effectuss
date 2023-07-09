@@ -24,6 +24,17 @@ My name is Savelii and I'm a Developer living in Novosibirsk
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<h3 align="left">💻 Some statistics:</h2>
+
+ <p align="center">
+<a href="https://github.com/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Effectus&hide=TeX&layout=compact&theme=nightowl&background=000000" height="163"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Effectus&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
+</a>
+</p>
+
 <h3 align="left">💡 Leetcode</h3>
 
 ![Leetcode](https://leetcard.jacoblin.cool/effectus?theme=dark&font=ABeeZee&ext=heatmap)
