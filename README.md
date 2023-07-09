@@ -2,9 +2,8 @@
 
 My name is Savelii and I'm a Developer living in Novosibirsk
 
-- 🔭 I’m currently working on energy consulting company
 - 🌱 I’m currently studying at [21School](https://21-school.ru/) (englishk)
-- 💬 Ask me about Programming, DevOps, Analytics
+- 💬 Ask me about C++
 - 📫 How to reach me: [Telegram](https://t.me/savamlb), [Email](mailto://panovsavelii@gmail.com)
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools</h3>
