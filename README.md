@@ -31,7 +31,12 @@ My name is Savelii and I'm a Developer living in Novosibirsk
 ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Effectuss&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Effectuss&theme=black-ice)
 
+##
 
+<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=Effectuss&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
+
+##
 <!--
 <h3 align="left">💡 Leetcode</h3>
 
