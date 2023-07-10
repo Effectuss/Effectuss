@@ -31,8 +31,8 @@ My name is Savelii and I'm a Developer living in Novosibirsk
 ![Top Langs](https://github-readme-stats-dosx001.vercel.app/api/top-langs/?username=Effectuss&langs_count=10&layout=compact&title_color=fff&text_color=00e7ff&bg_color=151515)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Effectuss&theme=black-ice)
 
-<h3 align="left">💡 Leetcode</h3>
-
-![Leetcode](https://leetcard.jacoblin.cool/effectus?theme=dark&font=ABeeZee&ext=heatmap)
+# <h3 align="left">💡 Leetcode</h3>
+#
+# ![Leetcode](https://leetcard.jacoblin.cool/effectus?theme=dark&font=ABeeZee&ext=heatmap)
 
 
