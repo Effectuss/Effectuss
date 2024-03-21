@@ -2,8 +2,8 @@
 
 I'm a Developer living in Novosibirsk
 
-- 🌱 I’m currently studying at [21School](https://21-school.ru/) (englishk)
-- 💬 Ask me about C++ and Java
+- 🌱 I’m currently studying at [21School](https://21-school.ru/) (englishk) and working in CFT
+- 💬 Ask me about Java
 - 📫 How to reach me: [Telegram](https://t.me/savamlb), [Email](mailto://panovsavelii@gmail.com)
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools</h3>
